@@ -1,6 +1,13 @@
 # github基本命令学习
 
-[github](https://github.com/zhiwenwang20122302)
+> Author : Zhiwen Wang   
+> Email: zwwang@my.swjtu.edu.cn  
+> Tell: 15708418408  
+> QQ: 1042261073  
+> WeChat: wzw_20122302  
+>Address: Chengdu China 611756  
+> [Home Page ](http://192.168.9.5/zhiwen.wang) `http://192.168.9.5/zhiwen.wang`  
+> [Github](https://github.com/zhiwenwang20122302)
 
 ## 生成秘钥 
 > [参考网址](https://help.github.com/en/articles/connecting-to-github-with-ssh)  
@@ -16,7 +23,7 @@
 * git clone git@github.com:zhiwenwang20122302/hello-world.git
 * 这里需要输入密码，和自己上面设置的密码保持一致
 
-
+		
 ## 本地文件编辑后同步到远程github
 ### 编辑
 * vi READM.md
@@ -33,3 +40,8 @@
 ### 同步到本地
 * git pull
 * 输入密码
+
+
+192.168.9.19:/DATACENTER1/zhiwen.wang/githubtest/hello-world 和远程服务器文件同步
+
+192.168.9.5:/DATACENTER2/huifu-project 和实验室gitlab同步

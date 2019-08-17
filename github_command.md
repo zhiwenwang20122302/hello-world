@@ -25,9 +25,11 @@
 * git add .
 * git commit -m 'update'
 * git push -u origin master
+* 输入密码
 
 ## 远程github文件编辑后同步到本地
 ### 编辑
 * 网页上可是化编辑
 ### 同步到本地
 * git pull
+* 输入密码

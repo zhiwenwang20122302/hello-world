@@ -1,18 +1,22 @@
-# 大牛主页
-[Alan Yuille](https://ccvl.jhu.edu/publication/)
+# 深度学习领域厉害的资深研究员
+## [Alan Yuille](https://ccvl.jhu.edu/publication/)
 
-[Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/publications/)
+![](http://www.cs.jhu.edu/~ayuille/images/alan.jpg)
 
-[Jia Deng](https://pvl.cs.princeton.edu/research.html)
+## [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/publications/)
 
-[Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/)
+## [Jia Deng](https://pvl.cs.princeton.edu/research.html)
 
-[Tao Mei](https://taomei.me/)
+## [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/)
 
-[Wenjun Zeng](https://www.microsoft.com/en-us/research/people/wezeng/)
+## [Tao Mei](https://taomei.me/)
 
-[Jiashi Feng, Shuicheng YAN](http://www.lv-nus.org/)
+## [Wenjun Zeng](https://www.microsoft.com/en-us/research/people/wezeng/)
 
-# [Kaiming He](http://kaiminghe.com/)
+## [Jiashi Feng, Shuicheng YAN](http://www.lv-nus.org/)
+
+## [Kaiming He](http://kaiminghe.com/)
 
 ![](http://kaiminghe.com/img/me.jpg)
+
+ResNet，MaskRCNN的一作

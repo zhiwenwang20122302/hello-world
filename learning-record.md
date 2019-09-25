@@ -13,5 +13,6 @@
 
 [Jiashi Feng, Shuicheng YAN](http://www.lv-nus.org/)
 
-[Kaiming He](http://kaiminghe.com/)
+# [Kaiming He](http://kaiminghe.com/)
+
 ![](http://kaiminghe.com/img/me.jpg)

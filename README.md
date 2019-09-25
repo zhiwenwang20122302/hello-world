@@ -1,5 +1,5 @@
 # 如何使用github配合ubuntu服务器开发
-    [学习文档，来自北京航天航空大学的Si Liu老师的总结](https://github.com/siliu-group/document)
+    ![学习文档，来自北京航天航空大学的Si Liu老师的总结](https://github.com/siliu-group/document)
 
 ## 配置github
 ### 方式1 本地记住密码
@@ -47,5 +47,16 @@
     # 将本地仓库的改动push到远程仓库
     # git push <远程主机名> <本地分支名>:<远程分支名>
     git push origin master:master
+
+## 查看git config的状态信息
+    
+    查看系统config
+    git config --system --list
+
+    查看当前用户（global）配置
+    git config --global --list
+
+    查看当前仓库配置信息
+    git config --local --list
 
 ## 更多内容参考si liu的文档
